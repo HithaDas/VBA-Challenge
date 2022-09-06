@@ -23,7 +23,7 @@ Original code -
 
 Refactored code -
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/110873947/188526910-9a65f8eb-6cce-4a0c-99cb-c89020f19099.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/110873947/188530096-81d686c0-d9cf-44b7-ba7c-9f3d6793e221.png)
 
 Original code -
 
