@@ -44,7 +44,7 @@ By reviewing the images from refactored code (VBA_Challenge) and original code (
 
 # Summary
 
-1. What are teh advantages or disadavcntages of refactoring code?
+1. What are the advantages or disadavcntages of refactoring code?
 
 Advantages:
 
